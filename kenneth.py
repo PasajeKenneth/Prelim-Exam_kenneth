@@ -42,6 +42,5 @@ def calculator():
             print("Exiting the calculator. Goodbye!")
             break
 
-# Start the calculator program
 if __name__ == "__main__":
     calculator()
